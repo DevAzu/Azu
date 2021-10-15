@@ -1,0 +1,2 @@
+# Azu
+Discord azu bot
